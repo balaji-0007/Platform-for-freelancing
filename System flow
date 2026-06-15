@@ -1,0 +1,12 @@
+System Flow
+Client → Posts Project
+↓
+Database
+↓
+Freelancers View Project
+↓
+Apply with Proposal
+↓
+Client Reviews Applications
+↓
+Select Freelancer
